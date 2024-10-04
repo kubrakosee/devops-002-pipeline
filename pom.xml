@@ -53,6 +53,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>application</finalName>//hangi sürüm olursa olsun ne çıkarsa çıksın adım hep bu olsun
 	</build>
 
 </project>
